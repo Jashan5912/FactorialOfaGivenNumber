@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(){
+int main(){
 
 	int number, i, factorial = 1;
 
